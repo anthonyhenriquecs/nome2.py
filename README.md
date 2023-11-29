@@ -1,5 +1,8 @@
 # nome2.py
 
+#O programa seguinte utiliza uma convenção especial de nomenclatura de nossos metodos para esconder os atributoss da classe e impedir o acesso direto a eles
+
+
 @total_ordering
 class Nome:
     def __init__(self, nome):
